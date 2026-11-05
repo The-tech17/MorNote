@@ -13,9 +13,7 @@ BY
 
 Under the Guidance of
 
-# **Prof. Ashish Kumawat**
-
-# **Prof. Gaurav Matange**
+# **Prof. Arpit Deo**
 
 ![][image1]
 
