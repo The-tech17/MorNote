@@ -1,0 +1,3 @@
+- [x] Remove unused `updateTags` in `NoteRepository.kt`
+- [x] Suppress unused warnings in `Converters.kt`
+- [x] Verify warnings are gone

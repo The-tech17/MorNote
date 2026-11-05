@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811365862358",
+    "project_id": "mornote-6c63b",
+    "storage_bucket": "mornote-6c63b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811365862358:android:4a2b2b60a4e4f1ab76b277",
+        "android_client_info": {
+          "package_name": "com.sanjana.mornote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811365862358-rio2jefct8te62d0tmop5u3rrd275cg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjana.mornote",
+            "certificate_hash": "fcb52bbef333f048b0224f2fba84419890c47463"
+          }
+        },
+        {
+          "client_id": "811365862358-46il8imaetaao5j4d0p57flpl2hp614p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ36icgmIe9f1YEGTIZ2ZzowM1iOmYgZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811365862358-46il8imaetaao5j4d0p57flpl2hp614p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
